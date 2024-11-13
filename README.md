@@ -24,4 +24,4 @@ Click on the "Code" button and select Download ZIP to download the pack. To use 
 ## Recommended way to play
 On top of using the texture pack, it is recomended to do the following changes in the PCSX2 config settings to get the best experience:
 -   If you use a widescreen, activate "Enable Widescreen Patches" in the Graphics settings.
--   If you are playing a PAL version, go to Advanced settings, look for the PAL Frame Rate option and change it to 60 hz. Now the game will play in flawless 60 FPS.
+-   In the game specific settings, go to Patches and activate the following patches: 480p Mode; then also activate the 180% EE Overclock in Emulation settings for the game.
